@@ -27,7 +27,8 @@ Only after completing these checks, respond accordingly.
 
 Step 2: Decompose and identify word forms
 BEFORE filling the table, first decompose the word:
-  LIST all grammatical roles this word can play in standard English.
+  1. LIST all grammatical roles this word can play in standard English.
+  2. SELECT one core meaning of the word. All forms and examples in the table MUST stay consistent with this single core meaning.
   Example: "light" → can function as noun (the light),
                       verb (to light a candle),
                       adjective (a light color)
@@ -45,7 +46,9 @@ FOR each grammatical form (Noun, Verb, Adjective):
 IF a word has multiple possible forms or the correct form is
 debated or context-dependent, note this briefly in the
 Word Family Note rather than selecting one interpretation
-without acknowledgement.
+without acknowledgement. If the word has unrelated meanings, 
+briefly acknowledge them in the Word Family Note without 
+mixing them into the table.
 
 Step 3: Self-check before outputting
 Silently verify:
